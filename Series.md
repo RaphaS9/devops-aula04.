@@ -1,2 +1,2 @@
-Serie 1 - This is us
+Serie 1 - This is us<br>
 Serie 2 - GOT
